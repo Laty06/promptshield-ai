@@ -5,8 +5,8 @@ Pare-feu pour chatbot LLM : détecte les injections de prompts et décide d'**au
 Projet 04 du contrôle continu "IA pour la Cybersécurité" (EMSI).
 
 ## Équipe
-- Étudiant(e) 1 : ...
-- Étudiant(e) 2 : ...
+- Étudiant(e) 1 : Latifa Chraiha
+- Étudiant(e) 2 : Chaymaa ELBahi
 
 ## Installation
 
